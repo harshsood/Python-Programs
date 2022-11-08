@@ -1,0 +1,56 @@
+1.) swap two no with out 3rd variable;
+2.)add integer as well as reverse ;
+3.)check no is prime or not 
+5.)palindrom no 
+6)armstrong
+7)febonaci
+8)array reverse  as well as sum
+9)string reverse
+10)array sort by the function or with out function 
+11)count vowel to given string 
+12)count odd and even no to the given array
+13)check string is palindrom or not;
+14)fectriol of the no 
+15)find the gretest element of the array
+16)find the smallest element of the array
+17)write a program coutn the no of words using has map and with out haspmap
+18)Write a Java Program to iterate HashMap using While and advance for loop.
+19)Write a Java Program to find the duplicate characters in a string.
+20)Write a Java Program to remove all white spaces from a string with using replace()
+21)Write a Java Program to remove all white spaces from a string without using replace().
+22)Write a program in Java to find greatest among three integers.
+23)Java Program to Calculate the Average of Integer Array.
+24) Java Program to calculate the Average of number taken from user.
+25) Java Program to find Smallest number among three.
+Q26). Java program to calculate the power using the POW method.
+Q27). Java Program to calculate the power without using POW function.
+Q28). Java Program to calculate the square of a given number.
+Q29). Java Program to calculate the cube of a given number
+Q30). Java Program to calculate the square root of a given number.
+Q31). Java program to calculate LCM of given two numbers.
+Q32). Java Program to find GCD or HCF of two numbers.
+Q33). Java Program to find GCD of two numbers using recursion.
+Q34). Java Program to check the given year is a leap year or not.
+Q35). Java Program to convert Celsius to Fahrenheit.
+Q36). Java Program to convert Fahrenheit to Celsius.
+Q37). Java program to calculate Simple Interest with explanation.
+Q38). Write a program in Java to check if two String are Anagram.
+Q39). Java program to check given character is digit or not.
+40). Java program to delete vowels in a given string.
+Q41). Java program to count alphabets, digits and special characters.
+42)Java program to calculate sum of integers in string.
+43)Java program to print all non repeating character in string.
+44). Java Program to sort characters of string in Ascending Order.
+Q45). Java Program to sort character of string in descending order.
+46) Write a program in Java for, In array 1-100 numbers are stored, one number is missing how do you find it.
+47). Write a program in Java for, In a array 1-100 multiple numbers are duplicates, how do you find it.
+Q4). Write a program in Java for, In a array 1-100 exactly one number is duplicate how do you find it.
+Q5). Write a program in Java for, Given two arrays 1,2,3,4,5 and 2,3,1,0,5 find which number is not present in the second array.
+Q6). Write a program in Java for, How to compare two array is equal in size or not.
+Q7). Write a program in Java to find largest and smallest number in array.
+11). Java program to reverse array without using second array.
+13). Java program to insert an element at end of an Array.
+14). Java program to insert element at a given location in Array.
+15). Java Program to delete element at end of Array..
+16). Java Program to delete given element from Array.
+17). Java Program to delete element from array at given index.
